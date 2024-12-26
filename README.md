@@ -150,4 +150,5 @@ This application uses **React Router** for navigation between different views. T
 - **Microsoft Azure PostgreSQL Server**: For database management and storage.
 
 ## Database Diagram
-![Screenshot 2024-11-02 114339](https://github.com/user-attachments/assets/13ed9ce7-247e-4d25-953d-edf90426f946)
+
+![JobHuntDb](https://github.com/user-attachments/assets/653bd760-8add-4f3d-8b41-eac944bcd3ff)
